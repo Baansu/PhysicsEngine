@@ -7,7 +7,7 @@ from debug.cube_view import CubeView
 # Switch the scene here to change what you see:
 #   VectorView()  — Vec3 operations visualised
 #   MatrixView()  — Mat4 rotation visualised
-#   CubeView()    — wireframe cube, full 3D pipeline
+#   CubeView()    — interactive wireframe cube
 # -----------------------------------------------
 
 scene = CubeView()
